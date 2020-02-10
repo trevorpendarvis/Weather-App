@@ -1,0 +1,29 @@
+body{
+
+   padding-top: 15vh;
+   background-image: url("https://media.giphy.com/media/Ta1MVGKCG2GFq/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFF;
+}
+
+h1{
+    font-size: 700%;
+    margin-bottom: 30px;
+
+
+
+}
+
+
+
+
+
+#value{
+text-align: center;
+
+
+
+
+}
+
